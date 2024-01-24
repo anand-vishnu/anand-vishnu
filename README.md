@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Vishnu
 #### Data Scientist
-![Data Scientist]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/anand-vishnu/anand-vishnu/blob/main/Beige%20and%20White%20Modern%20LinkedIn%20Background%20Photo.png))
+![Data Scientist](https://github.com/anand-vishnu/anand-vishnu/blob/main/Beige%20and%20White%20Modern%20LinkedIn%20Background%20Photo.png)
 
 I am a dedicated professional with a Bachelor's degree in Computer Systems and Software. My primary passion lies in the dynamic and transformative field of Data Science, with a keen interest in Artificial Intelligence (AI) and Machine Learning (ML).
 
