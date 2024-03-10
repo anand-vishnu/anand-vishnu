@@ -6,10 +6,10 @@ I am a dedicated professional with a Bachelor's degree in Computer Systems and S
 My current focus revolves around advancing my expertise in Data Science, where I am actively engaged in developing a profound understanding of AI and ML methodologies. This intentional specialization allows me to contribute effectively to the evolving landscape of data-driven decision-making.
 
 ## Skills
-Python | NumPy | Pandas | Matplotlib | Scikit-learn | Data analysis | ML
+Python | NumPy | Pandas | Matplotlib | Scikit-learn | Tensorflow | Data Science | Data Analysis | ML 
 
 ## Fun fact
-Multilingual (English, Japanese, Russian, Hindi) 
+Multilingual (English, Japanese, Russian, Kazakh, Hindi) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anand-vishnu)  
