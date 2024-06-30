@@ -6,12 +6,12 @@ I am a dedicated professional with a Bachelor's degree in Computer Systems and S
 I am actively engaged in self-learning Software Engineering, mastering Java, Data Structures & Algorithms, SQL, and version control with Git and GitHub. My goal is to excel in a Software Engineering role, leveraging my diverse skill set and passion for backend technologies
 
 ## Skills
-Backend Engineering: 
-| Java | SQL | Data Structures & Algorithms 
-Version Control: 
-| Git | GitHub
-Data Science & Machine Learning: 
-| Python | NumPy | Pandas | Matplotlib | Scikit-learn | TensorFlow 
+**Backend Engineering:** | Java | SQL | Data Structures & Algorithms
+
+**Version Control:** | Git | GitHub
+
+**Data Science & Machine Learning:** | Python | NumPy | Pandas | Matplotlib | Scikit-learn | TensorFlow
+
 
 ## Fun fact
 Multilingual | English | Japanese | Russian | Kazakh | Hindi | 
