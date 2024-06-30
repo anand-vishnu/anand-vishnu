@@ -14,7 +14,7 @@ I am actively engaged in self-learning Software Engineering, mastering Java, Dat
 
 
 ## Fun fact
-Multilingual | English | Japanese | Russian | Kazakh | Hindi | 
+**Multilingual:** | English | Japanese | Russian | Kazakh | Hindi | 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anand-vishnu)  
