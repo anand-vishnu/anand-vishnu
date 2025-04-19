@@ -23,7 +23,9 @@ def load_words():
     Depending on the size of the word list, this function may
     take a while to finish.fr
 
-    Hello
+    Hello 
+
+    Remote Change
     """
 
     print("Loading word list from file...")
