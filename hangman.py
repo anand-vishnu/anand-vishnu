@@ -31,7 +31,7 @@ def load_words():
     # wordlist: list of strings
     wordlist = line.split()
     print("  ", len(wordlist), "words loaded.")
-    print("MY COMMIT")
+    print("MY  COMMIT")
     return wordlist
 
 
